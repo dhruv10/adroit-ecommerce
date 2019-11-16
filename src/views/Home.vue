@@ -72,6 +72,7 @@ export default {
 <style scoped>
 .home {
   text-align: center;
+  font-size: 20px;
 }
 </style>
 
